@@ -1,3 +1,5 @@
+![Language](https://img.shields.io/badge/Language-Verilog-blue)
+![Topics](https://img.shields.io/badge/Topic-VLSI-orange)
 # Traffic-Light-FSM
 
 Moore FSM for a simple traffic-light controller.
